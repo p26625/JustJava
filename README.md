@@ -1,0 +1,1 @@
+Just Java app developed for Udacity Android Development for Beginners On-Line Course
